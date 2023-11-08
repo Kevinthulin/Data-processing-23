@@ -7,8 +7,9 @@ name = "pypi"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
-seaborn = "*"
 ipykernel = "*"
+seaborn = "*"
+openpyxl = "*"
 
 [dev-packages]
 
